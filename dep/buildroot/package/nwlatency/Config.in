@@ -1,0 +1,4 @@
+config BR2_PACKAGE_NWLATENCY
+    bool "nwlatency"
+    help
+      The NW latency benchmark module.
