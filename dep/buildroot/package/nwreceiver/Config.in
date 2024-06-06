@@ -1,0 +1,4 @@
+config BR2_PACKAGE_NWRECEIVER
+    bool "nwreceiver"
+    help
+      The NW receiver benchmark module.

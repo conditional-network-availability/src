@@ -1,0 +1,4 @@
+config BR2_PACKAGE_TXCTL
+    bool "txctl"
+    help
+      The TX benchmark control module.

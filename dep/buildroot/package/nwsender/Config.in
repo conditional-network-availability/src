@@ -1,0 +1,4 @@
+config BR2_PACKAGE_NWSENDER
+    bool "nwsender"
+    help
+      The NW sender benchmark module.

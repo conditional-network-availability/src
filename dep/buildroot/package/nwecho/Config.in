@@ -1,0 +1,4 @@
+config BR2_PACKAGE_NWECHO
+    bool "nwecho"
+    help
+      The NW echo benchmark module.
